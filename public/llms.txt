@@ -1,0 +1,52 @@
+# liRead — Generative Engine Optimization Map
+
+> A General business.
+
+---
+
+## Pages
+
+### Home
+https://liread-6dec31ae.zappy5.app
+
+### About
+https://liread-6dec31ae.zappy5.app/about
+
+### Services
+https://liread-6dec31ae.zappy5.app/services
+
+### Contact
+https://liread-6dec31ae.zappy5.app/contact
+
+## Legal & Policy
+
+### Privacy Policy
+https://liread-6dec31ae.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://liread-6dec31ae.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://liread-6dec31ae.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About liRead
+liRead is a business in the General industry.
+
+## Target Audience
+
+## Industry
+General
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://liread-6dec31ae.zappy5.app/sitemap.xml
+- **Robots.txt**: https://liread-6dec31ae.zappy5.app/robots.txt

@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://liread-6dec31ae.zappy5.app/sitemap.xml
